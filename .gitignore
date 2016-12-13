@@ -3,3 +3,7 @@ yelpword2vec
 yelpdoc2vec
 restaurant_reviews.pkl
 yelp_semeval_reviews.txt
+data/doc2vmodel
+data/doc2vmodel.syn0.npy
+data/doc2vmodel.syn1.npy
+data/yelphraseword2vec
